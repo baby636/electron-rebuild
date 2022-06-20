@@ -42,7 +42,7 @@
     "debug": "^4.1.1",
     "detect-libc": "^1.0.3",
     "fs-extra": "^9.0.1",
-    "got": "^11.7.0",
+    "got": "^11.8.5",
     "lzma-native": "^8.0.1",
     "node-abi": "^2.19.2",
     "node-gyp": "^7.1.0",
